@@ -1,2 +1,3 @@
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGbldSQS8kNh0NxX6ir28hecMnfDcWVot/KWRnvsrIXH
 ss
+git remote add origin git@gitlab.com:first-git-repo1/test.git
