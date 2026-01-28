@@ -2,8 +2,9 @@
 	body {
 		backgroud-color: lightblue;
 	}
-	h1 {
+	h1, h2, h3 {
 		color: gray;
+		color: black;
 		text-align: center;
 	}
 	p {
