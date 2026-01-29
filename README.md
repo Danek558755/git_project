@@ -65,6 +65,7 @@ Main page:
 - [x] Learned GitHub connection.
   - [x] Git push.
   - [x] Git pull.
+  - [x] Git pull request
 - [ ] Lerned Docker.
 
 ### Top contributors:
