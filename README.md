@@ -21,7 +21,7 @@
 [comment]: # (About project and what is it)
 ## About The project 😸:
 <a id="about-the-project"></a>
-My first test Git repisitory
+My first test Git repisitory!
 ***
 * Me need to learn more.
 * This realy need.
